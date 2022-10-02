@@ -52,4 +52,54 @@ La web de El País presenta [*banners* publicitarios](https://elpais.com/)
 
 ## Carrito de compra o cesta
 
+![](/assets/images/shopping-cart.png)
 
+[Carrito de la compra de *tailwindUI* (02/10/2022)](https://tailwindui.com/components/ecommerce/components/shopping-carts)
+
+## Carrusel o *carousel*
+
+![](/assets/images/carousel.png)
+
+[Carrusel de *Bootstrap* (02/10/2022)](https://getbootstrap.com/docs/4.0/components/carousel/)
+
+## Deslizador o *slider*
+
+![](/assets/images/slider.png)
+
+[*Slider* de *Material Design* (02/10/2022)](https://material.io/components/sliders)
+
+## Cuadro de diálogo o modal
+
+![](/assets/images/modal.png)
+
+[Ejemplo de cuadro de diálogo de *Material Design* (02/10/2022)](https://material.io/components/dialogs)
+
+## Formulario de contacto o *Contact form*
+
+![](/assets/images/contact-form.png)
+
+[Formulario de contacto de *Material design for Bootstrap 5 & 4*](https://mdbootstrap.com/docs/angular/extended/contact/)
+
+## Inscripción al boletín de noticias o *newsletter*
+
+![](/assets/images/newsletter.png)
+
+[Inscripción al boletín de noticias de *Smashing Magazine* (02/10/2022)](https://www.smashingmagazine.com/)
+
+## Llamada a la acción o *Call to action*
+
+![](/assets/images/call-to-action.png)
+
+[Ejemplo de llamada a la acción en un artículo de blog sobre llamadas a la acción (02/10/2022)](https://blog.hubspot.com/marketing/8-types-ctas-website-list)
+
+## Menú de navegación o *Navbar*
+
+![](/assets/images/navbar.png)
+
+[Concepto de menú de navegación de *Carbon Design System* (02/10/2022)](https://carbondesignsystem.com/patterns/global-header/)
+
+## Menú hamburguesa o *toggle*
+
+![](/assets/images/toggle-menu.png)
+
+[Ejemplos de menú hamburguesa en *Free Frontend* (02/10/2022)](https://freefrontend.com/css-toggle-menus/)
