@@ -103,3 +103,57 @@ La web de El País presenta [*banners* publicitarios](https://elpais.com/)
 ![](/assets/images/toggle-menu.png)
 
 [Ejemplos de menú hamburguesa en *Free Frontend* (02/10/2022)](https://freefrontend.com/css-toggle-menus/)
+
+## Migas de pan o *breadcrumbs*
+
+![](/assets/images/breadcrumbs.png)
+
+[Ejemplo de miga de pan en *Moodle* (03/102022)](https://carbondesignsystem.com/components/breadcrumb/usage/)
+
+## Paginado
+
+![](/assets/images/pagination-example.png)
+
+[Ejemplo de paginado en *xkcd comics* (03/10/2022)](https://xkcd-dagore-dev.vercel.app/comic/1012)
+
+## Pestaña o *tabs*
+
+![](/assets/images/tabs.png)
+
+[*Tabs* de *Bulma* (03/10/2022)](https://bulma.io/documentation/components/tabs/)
+
+## Políticas de privacidad y *cookies*
+
+![](/assets/images/cookies.png)
+
+[Ejemplo de mensaje sobre la política de *Cookies* del Ministerio de Exteriores (03/10/2022)](https://www.exteriores.gob.es/es/Paginas/Cookies.aspx)
+
+## Redes sociales o *social media*
+
+![](/assets/images/social-media.png)
+
+[Ejemplo de *Call to action* para compartir en redes (03/10/2022)](https://blog.hubspot.com/marketing/8-types-ctas-website-list)
+
+## Rosco de carga o *spinner*
+
+![](/assets/images/spinners.png)
+
+(Distintos tipos de *spinners* de *Ionic Framework*)[https://ionicframework.com/docs/api/spinner]
+
+## Selector de idiomas
+
+![](/assets/images/language-selector.png)
+
+[Componente de selección de idiomas de *Green design library* (03/10/2022)](https://designlibrary.sebgroup.com/components/component-languageselector)
+
+## Tarjetas o *cards*
+
+![](/assets/images/card.png)
+
+[Ejemplo de tarjeta de *Material design* (03/10/2022)](https://material.io/components/cards)
+
+## Ventana emergente o *popup/popover*
+
+![](/assets/images/popover.png)
+
+[*Popover* de *Bootstrap* (03/10/2022)](https://getbootstrap.com/docs/4.0/components/popovers/)
