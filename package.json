@@ -1,0 +1,24 @@
+{
+  "name": "componentes-web",
+  "version": "1.0.0",
+  "description": "Colección de componentes que se pueden encontrar en distintas páginas web para la asignatura de Desarrollo de interfaces web (DAW2).",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx marp --output=dist --input-dir . --allow-local-files",
+    "build-pdf": "npx marp --pdf --output=dist --input-dir . --allow-local-files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dagore-dev/componentes-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dagore-dev/componentes-web/issues"
+  },
+  "homepage": "https://github.com/Dagore-dev/componentes-web#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^2.2.0"
+  }
+}
